@@ -1,7 +1,7 @@
 # Welcome to my portfolio
 I'm a full-stack programmer, best known for leading Anime Reborn as the team's core scripter. I have over 8 years of experience with programming, but my biggest passions and feats were on Roblox.
 
-[https://github.com/PurpleMoon991] is my only legit Github account
+![Github](https://github.com/PurpleMoon991) is my only legit Github account
 
 # Tech Stack
 ![Static Badge](https://img.shields.io/badge/luau-%2520?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=%2300A2FF&color=%2300A2FF) ![Static Badge](https://img.shields.io/badge/lua-%2520?style=for-the-badge&logo=lua&logoColor=white&labelColor=%232C2D72&color=%232C2D72) ![Static Badge](https://img.shields.io/badge/java-%2520?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=%23000000&color=%23000000) ![Static Badge](https://img.shields.io/badge/js-%2520?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/sqlite-%2520?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57&color=%23003B57) ![Static Badge](https://img.shields.io/badge/github-%2520?style=for-the-badge&logo=github&logoColor=white&labelColor=%23000000&color=%23000000) ![Static Badge](https://img.shields.io/badge/git-%2520?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032) 
