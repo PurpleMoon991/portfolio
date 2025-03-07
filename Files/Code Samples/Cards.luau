@@ -2,6 +2,7 @@
 -- // THIS CODE IS NOT MEANT FOR 3RD PARTY USE, IT'S A SHOWCASE
 
 -- Sample of front-end, a neat cards selection animated using Spring
+-- Hoarcekat was used as a storybook
 
 local module = {}
 
